@@ -1,5 +1,5 @@
 public class Stack {
-    private Node top;
+    Node top;
     private int count;
 
     public Stack() {
